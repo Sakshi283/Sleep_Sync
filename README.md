@@ -47,16 +47,6 @@ VS Code
 REST APIs
 
 
-Getting Started
-1. Clone the repo
-git clone https://github.com/alokkksharmaa/SleepSync.git
-cd SleepSync
-
-2. Install dependencies
-npm install
-
-3. Run the development server
-npm run dev
 
 Future Enhancements
 
