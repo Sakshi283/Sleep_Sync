@@ -47,7 +47,6 @@ VS Code
 REST APIs
 
 
-
 Future Enhancements
 
 AI-powered sleep analysis
